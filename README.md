@@ -1,6 +1,6 @@
 # ethprice-oracle
 
-** Simple oracle example that allows only one user, its owner, to fetch data from Binance's public API. **
+*Simple oracle example that allows only one user, its owner, to fetch data from Binance's public API.*
 
 ### How to run?
 
